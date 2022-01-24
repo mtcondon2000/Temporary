@@ -1,5 +1,8 @@
 # Temporary
 Testing out markdown
+Go to apple [here](https://www.apple.com)
+
+Try an image of a fish ![blue fish](https://thumbs.dreamstime.com/b/little-blue-fish-white-background-bluefish-isolated-156659397.jpg)
 
 The *area* of a rectangle is the `height` times the `width`. We define it in ___python___ as:
 ```
@@ -31,11 +34,11 @@ Institutions:
 
 Start of a new list:
 1. Doctoral advisor	
-   2. Lipót Fejér
+    1. Lipót Fejér
 
-Start another list
-2. Doctoral students	
-  1. Joseph Kruskal
-  2. George B. Purdy
-  3. Alexander Soifer
-  4. Béla Bollobás[1]
+Start another list:
+1. Doctoral students	
+    1. Joseph Kruskal
+    2. George B. Purdy
+    3. Alexander Soifer
+    4. Béla Bollobás[1]
