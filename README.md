@@ -1,2 +1,8 @@
 # Temporary
 Testing out markdown
+
+Paul Erdős (Hungarian: Erdős Pál [ˈɛrdøːʃ ˈpaːl]; 26 March 1913 – 20 September 1996) was a renowned Hungarian mathematician. He was one of the most prolific mathematicians and producers of mathematical conjectures[2] of the 20th century.[3] He was known both for his social practice of mathematics (he engaged more than 500 collaborators) and for his eccentric lifestyle (Time magazine called him The Oddball's Oddball).[4] He devoted his waking hours to mathematics, even into his later years—indeed, his death came only hours after he solved a geometry problem at a conference in Warsaw.
+
+Erdős pursued and proposed problems in discrete mathematics, graph theory, number theory, mathematical analysis, approximation theory, set theory, and probability theory.[5] Much of his work centered around discrete mathematics, cracking many previously unsolved problems in the field. He championed and contributed to Ramsey theory, which studies the conditions in which order necessarily appears. Overall, his work leaned towards solving previously open problems, rather than developing or exploring new areas of mathematics.
+
+Erdős published around 1,500 mathematical papers during his lifetime, a figure that remains unsurpassed.[6] He firmly believed mathematics to be a social activity, living an itinerant lifestyle with the sole purpose of writing mathematical papers with other mathematicians. Erdős's prolific output with co-authors prompted the creation of the Erdős number, the number of steps in the shortest path between a mathematician and Erdős in terms of co-authorships.
