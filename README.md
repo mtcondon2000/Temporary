@@ -1,8 +1,33 @@
 # Temporary
 Testing out markdown
 
-Paul Erdős (Hungarian: Erdős Pál [ˈɛrdøːʃ ˈpaːl]; 26 March 1913 – 20 September 1996) was a renowned Hungarian mathematician. He was one of the most prolific mathematicians and producers of mathematical conjectures[2] of the 20th century.[3] He was known both for his social practice of mathematics (he engaged more than 500 collaborators) and for his eccentric lifestyle (Time magazine called him The Oddball's Oddball).[4] He devoted his waking hours to mathematics, even into his later years—indeed, his death came only hours after he solved a geometry problem at a conference in Warsaw.
+Born	26 March 1913
+Budapest, Austria-Hungary
+Died	20 September 1996 (aged 83)
+Warsaw, Poland
+Nationality	Hungarian
+Alma mater	Royal Hungarian Pázmány Péter University
+Known for	A very large number of results and conjectures (more than 1,500 articles), and a very large number of coauthors (more than 500)
+Awards	Wolf Prize (1983/84)
+AMS Cole Prize (1951)
+Scientific career
+Fields	Mathematics
 
-Erdős pursued and proposed problems in discrete mathematics, graph theory, number theory, mathematical analysis, approximation theory, set theory, and probability theory.[5] Much of his work centered around discrete mathematics, cracking many previously unsolved problems in the field. He championed and contributed to Ramsey theory, which studies the conditions in which order necessarily appears. Overall, his work leaned towards solving previously open problems, rather than developing or exploring new areas of mathematics.
+Institutions:
+* Victoria University of Manchester
+* Princeton University
+* Purdue University
+* University of Notre Dame
+* Hebrew University of Jerusalem
+* Technion – Israel Institute of Technology
 
-Erdős published around 1,500 mathematical papers during his lifetime, a figure that remains unsurpassed.[6] He firmly believed mathematics to be a social activity, living an itinerant lifestyle with the sole purpose of writing mathematical papers with other mathematicians. Erdős's prolific output with co-authors prompted the creation of the Erdős number, the number of steps in the shortest path between a mathematician and Erdős in terms of co-authorships.
+Start of a new list:
+1. Doctoral advisor	
+   2. Lipót Fejér
+
+Start another list
+2. Doctoral students	
+  1. Joseph Kruskal
+  2. George B. Purdy
+  3. Alexander Soifer
+  4. Béla Bollobás[1]
