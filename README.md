@@ -1,6 +1,14 @@
 # Temporary
 Testing out markdown
 
+The *area* of a rectangle is the `height` times the `width`. We define it in ___python___ as:
+```
+def area(height, width):
+   return(height*width)
+   
+print(area(10,12))
+```
+
 Born	26 March 1913
 Budapest, Austria-Hungary
 Died	20 September 1996 (aged 83)
